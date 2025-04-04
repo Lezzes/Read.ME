@@ -1,5 +1,3 @@
-<h1 align="center">💜 Lezzes</h1>
-
 <p align="center">
   <img src="./logo.png" width="180" alt="Lezzes gif" />
 </p>
