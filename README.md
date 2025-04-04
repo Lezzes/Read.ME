@@ -1,7 +1,7 @@
 <h1 align="center">💜 Lezzes</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hp3dmEfu4FQly/giphy.gif" width="180" alt="Lezzes gif" />
+  <img src="./logo.png" width="180" alt="Lezzes gif" />
 </p>
 
 <p align="center"><strong>O streaming feito por e para mulheres que amam mulheres.</strong></p>
